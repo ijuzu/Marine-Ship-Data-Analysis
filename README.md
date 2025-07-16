@@ -4,7 +4,7 @@ This project was completed as part of the admissions process to Vilnius Universi
 # Objective
 The goal of this assignment was to evaluate foundational knowledge in data science, including data analysis, statistics, and modeling, in addition to assessing problem-solving skills, critical thinking, and the ability to communicate insights in a creative manner. 
 
-# Guidelines:
+# Guidelines
 1. Explore and Understand the Data 
 
 2. Develop a Creative Analytical Theme or direction
@@ -15,11 +15,7 @@ The goal of this assignment was to evaluate foundational knowledge in data scien
 
 5. Deliver Your Story 
 
-  
-APENDIX A
-Data variables description:
-Columns in *.csv file Format
-----------------------------------------------------------------------------------------------------------------------------------------------------
+# Data variables description
 1. Timestamp: Timestamp from the AIS basestation, format: 31/12/2015 23:59:59
 2. Type of mobile: Describes what type of target this message is received from (class A AIS Vessel, Class B AIS vessel, etc)
 3. MMSI: MMSI number of vessel
