@@ -1,8 +1,10 @@
-# Instructions for the project: 
-Objective of task:
-This assignment is designed to evaluate your foundational knowledge in data science, including data analysis, statistics, and modeling. It also assesses your problem-solving skills, critical thinking, and ability to uncover and communicate insights creatively. By analyzing the AIS.csv dataset, your goal is to tell a compelling story about the data while showcasing your technical proficiency and motivation for the field.
+# Project Introduction
+This project was completed as part of the admissions process to Vilnius University from April 22-24, 2025. I was given 48 hours to clean and come up with a compelling story about the dataset, which was a dataset tracking movements of ships on the Baltic Sea. The final outputs were my code and a powerpoint presentation, which I presented during the interview on April 24, 2025.
 
-Tentative guidelines:
+# Objective
+The goal of this assignment was to evaluate foundational knowledge in data science, including data analysis, statistics, and modeling, in addition to assessing problem-solving skills, critical thinking, and the ability to communicate insights in a creative manner. 
+
+# Guidelines:
 1. Explore and Understand the Data 
 
 2. Develop a Creative Analytical Theme or direction
